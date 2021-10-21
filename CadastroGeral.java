@@ -7,7 +7,7 @@ public class CadastroGeral {
 	public CadastroGeral(){
 		produto = new Produtos[5];
 		vendas = new Venda[4];
-		
+	 
 	}
 
 
